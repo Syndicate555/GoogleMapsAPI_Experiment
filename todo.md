@@ -6,3 +6,4 @@
 - Add labels
 - Add input box
 - Add Store List Container
+- Add Individual Stores
