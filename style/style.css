@@ -22,8 +22,7 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.search-container,
-search {
+.search-container {
   position: absolute;
   z-index: 100;
   top: 230px;
