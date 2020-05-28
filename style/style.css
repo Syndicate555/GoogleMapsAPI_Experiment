@@ -35,4 +35,8 @@ body {
 
 .search-container input {
   width: 100%;
+  font-size: 25px;
+  background-color: transparent;
+  border: none;
+  color: aliceblue;
 }
