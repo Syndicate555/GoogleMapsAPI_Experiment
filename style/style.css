@@ -51,3 +51,5 @@ body {
   display: flex;
   align-items: center;
 }
+
+.search-container input:focus
