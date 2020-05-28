@@ -52,4 +52,6 @@ body {
   align-items: center;
 }
 
-.search-container input:focus
+.search-container input:focus {
+  outline: none;
+}
