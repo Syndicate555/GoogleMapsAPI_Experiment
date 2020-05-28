@@ -30,6 +30,7 @@ body {
   width: 400px;
   height: 60px;
   background-color: #454545;
+  display: flex;
   border-radius: 30px;
 }
 
@@ -40,7 +41,13 @@ body {
   border: none;
   color: aliceblue;
   padding-left: 40px;
-  padding-top: 15px;
+  padding-top: 10px;
   border-radius: 30px;
   border-color: transparent;
+  align-items: center;
+}
+.search {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
 }
