@@ -21,3 +21,15 @@ body {
   color: #333;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.search-container,
+search {
+  position: absolute;
+  z-index: 100;
+  top: 230px;
+  left: 100px;
+  width: 400px;
+  height: 60px;
+  background-color: #454545;
+  border-radius: 30px;
+}
