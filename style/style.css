@@ -34,12 +34,13 @@ body {
 }
 
 .search-container input {
-  width: 400px;
+  width: 300px;
   font-size: 25px;
   background-color: transparent;
   border: none;
   color: aliceblue;
-  padding-left: 30px;
+  padding-left: 40px;
   padding-top: 15px;
   border-radius: 30px;
+  border-color: transparent;
 }
