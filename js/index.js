@@ -51,6 +51,7 @@ function showStoresMarkers() {
     var name = store.name;
     var address = store.addressLines[0];
     var statusText = store.openStatusText;
+    var phone = store.phoneNumber;
     bounds.extend(latlng);
     createMarker(latlng, name, address);
   });
