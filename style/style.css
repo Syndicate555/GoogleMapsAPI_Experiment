@@ -61,6 +61,7 @@ body {
 .stores-list-container {
   width: 400px;
   height: 300px;
+  bottom: 0;
   position: absolute;
   z-index: 100;
   background: white;
