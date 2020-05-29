@@ -50,6 +50,7 @@ function showStoresMarkers() {
     console.log(latlng);
     var name = store.name;
     var address = store.addressLines[0];
+    var statusText = store.openStatusText;
     bounds.extend(latlng);
     createMarker(latlng, name, address);
   });
