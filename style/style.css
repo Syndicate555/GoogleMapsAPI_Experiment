@@ -57,3 +57,12 @@ body {
 .search-container input:focus {
   outline: none;
 }
+
+.stores-list-container {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  z-index: 100;
+  background: wheat;
+  left: 100px;
+}
