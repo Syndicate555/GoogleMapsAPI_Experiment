@@ -57,7 +57,12 @@ function showStoresMarkers() {
 }
 
 function createMarker(latlng, name, address) {
-  var html = "<b>" + name + "</b> <br/>" + address;
+  var html = `<div class = "store-info-window">
+                    
+  
+  
+  
+    `;
   var marker = new google.maps.Marker({
     map: map,
     position: latlng,
