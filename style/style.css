@@ -46,6 +46,7 @@ body {
   border-color: transparent;
   align-items: center;
 }
+
 .search {
   flex-grow: 1;
   display: flex;
