@@ -58,7 +58,10 @@ function showStoresMarkers() {
 
 function createMarker(latlng, name, address) {
   var html = `<div class = "store-info-window">
-                    
+           <div class = "store-info-name">
+           NAME
+           </div>
+        </div>         
   
   
   
