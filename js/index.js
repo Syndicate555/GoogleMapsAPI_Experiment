@@ -53,7 +53,7 @@ function showStoresMarkers() {
     var statusText = store.openStatusText;
     var phone = store.phoneNumber;
     bounds.extend(latlng);
-    createMarker(latlng, name, address);
+    createMarker(latlng, name, address, statusText, phone);
   });
   map.fitBounds(bounds);
 }
