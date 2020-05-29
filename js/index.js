@@ -58,7 +58,7 @@ function showStoresMarkers() {
   map.fitBounds(bounds);
 }
 
-function createMarker(latlng, name, address, statusText) {
+function createMarker(latlng, name, address, statusText,phone) {
   var html = `<div class = "store-info-window">
            <div class = "store-info-name">
            ${name}
@@ -70,7 +70,7 @@ function createMarker(latlng, name, address, statusText) {
            ${address}
            </div>
            <div class = "store-info-phone">
-           355-342-2356
+           ${}
            </div>
         </div>         
   
