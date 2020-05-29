@@ -59,10 +59,11 @@ body {
 }
 
 .stores-list-container {
-  width: 300px;
+  width: 400px;
   height: 300px;
   position: absolute;
   z-index: 100;
   background: wheat;
   left: 100px;
+  top: 320px;
 }
