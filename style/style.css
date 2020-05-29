@@ -63,7 +63,8 @@ body {
   height: 300px;
   position: absolute;
   z-index: 100;
-  background: wheat;
+  background: white;
   left: 100px;
   top: 320px;
+  border-radius: 30px;
 }
