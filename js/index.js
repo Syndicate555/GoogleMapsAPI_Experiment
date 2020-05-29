@@ -59,16 +59,17 @@ function showStoresMarkers() {
 function createMarker(latlng, name, address) {
   var html = `<div class = "store-info-window">
            <div class = "store-info-name">
-           NAME
+           Starbucks
            </div>
            <div class = "store-info-status">
-           Status Text
+           Open until
            </div>
            <div class = "store-info-address">
-           Address
+           7489 Cool rd
            </div>
            <div class = "store-info-phone">
-           
+           355-342-2356
+           </div>
         </div>         
   
   
