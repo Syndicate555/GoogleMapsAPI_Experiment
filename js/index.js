@@ -61,6 +61,14 @@ function createMarker(latlng, name, address) {
            <div class = "store-info-name">
            NAME
            </div>
+           <div class = "store-info-status">
+           Status Text
+           </div>
+           <div class = "store-info-address">
+           Address
+           </div>
+           <div class = "store-info-phone">
+           
         </div>         
   
   
