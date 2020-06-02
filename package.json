@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Syndicate555/GoogleMapsAPI_Experiment/issues"
   },
-  "homepage": "https://github.com/Syndicate555/GoogleMapsAPI_Experiment#readme"
+  "homepage": "https://github.com/Syndicate555/GoogleMapsAPI_Experiment#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
