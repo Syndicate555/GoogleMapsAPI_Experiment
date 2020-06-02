@@ -1,0 +1,19 @@
+{
+  "name": "googlemapsapi_experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syndicate555/GoogleMapsAPI_Experiment.git"
+  },
+  "author": "Saffat Aziz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syndicate555/GoogleMapsAPI_Experiment/issues"
+  },
+  "homepage": "https://github.com/Syndicate555/GoogleMapsAPI_Experiment#readme"
+}

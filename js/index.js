@@ -33,7 +33,7 @@ function displayStores() {
                     <div class="store-number">
                         ${index + 1}
                     </div>
-                </div>
+                </div> 
             </div>
         `;
   });
