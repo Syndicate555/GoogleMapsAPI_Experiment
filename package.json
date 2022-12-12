@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Syndicate555/GoogleMapsAPI_Experiment#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.4"
   }
 }
